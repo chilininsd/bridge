@@ -1,24 +1,38 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <sysexits.h>
 #include <sys/types.h>
 #include <signal.h>
 #include <windows.h>
 
+#define CHILD_PROC_TERMINATION_CODE 99
+#define PROC_TERMINATION_CODE 127
 
 int pid; /* child process id */
-int * pids;
+HANDLE * processes;
+STARTUPINFO * startupInfos;
+PROCESS_INFORMATION * processInfos;
+int numProcessors;
 
-static void onalarm(int signo);
+void alarm(int *pNumSecs);
+DWORD WINAPI AlarmRun(LPVOID threadData);
+void OnAlarm(int signo);
 void error(char *msg);
 void doWork();
+void initProcessArrays();
 
 int main(int argc, char *argv[])
 {
 	int sec=10; /* default timeout */ 
 	int status;
-	int numProcessors = sysconf(_SC_NPROCESSORS_CONF);
-	pids = (int*)malloc(sizeof(int)*numProcessors);
+	SYSTEM_INFO info;
+	GetSystemInfo(&info);
+	numProcessors = info.dwNumberOfProcessors;
+	int parentPid = GetCurrentProcessId();
+
+	processes = (HANDLE*)malloc(sizeof(HANDLE)*numProcessors);
+	startupInfos = (STARTUPINFO*)malloc(sizeof(STARTUPINFO)*numProcessors);
+	processInfos = (PROCESS_INFORMATION*)malloc(sizeof(PROCESS_INFORMATION)*numProcessors);
+	initProcessArrays();
 
 	if (argc > 1 && argc < 3) 
 	{
@@ -27,29 +41,29 @@ int main(int argc, char *argv[])
 		{
 			error("Usage: godot <alarm interval as an integer>\n");
 		}
-	} 
-	else 
+	}
+	else
 	{
 		error("Usage: godot <alarm interval>\n");
 	}
 
-	// signal(SIGALRM, onalarm);
+	signal(SIGINT, OnAlarm);
 	alarm(&sec);
 
-	printf("original process, pid = %d\n", getpid());
+	printf("original process, pid = %d\n", GetCurrentProcessId());
 
 	int i;
 	for (i = 0; i < numProcessors; i++)
 	{
 		// if ((pid=fork()) == 0)
 		// {
-		// 	printf("%dth child, pid = %d, parent = %d\n", i, getpid(), getppid());
+		// 	printf("%dth child, pid = %d, parent = %d\n", i, GetCurrentProcessId(), parentPid);
 		// 	doWork();	
 		// } 
-		else 
-		{
-			pids[i] = pid;
-		}
+		//else 
+		//{
+		//	processes[i] = pid;
+		//}
 	}
 	
 	int j;
@@ -65,26 +79,27 @@ int main(int argc, char *argv[])
 	exit(EXIT_SUCCESS);
 }
 
-static void onalarm(int signo) /* kill child process when alarm arives */
+static void OnAlarm(int signo) /* kill child process when alarm arives */
 {
-	printf("\nRecvd alarm signal!\n\n");
-	int i;
-	for (i = 0; i < sysconf(_SC_NPROCESSORS_CONF); i++)
-	{
-		kill(pids[i], SIGKILL);	
-	}
+	//printf("\nRecvd alarm signal!\n\n");
+	//int i;
+	//for (i = 0; i < numProcessors; i++)
+	//{
+	//	TerminateProcess(hChildProc, CHILD_PROC_TERMINATION_CODE);
+	//	kill(processes[i], SIGKILL);
+	//}
 }
 
 void error(char *msg)
 {
 	fprintf(stderr, "%s", msg);
 	fprintf(stderr,"\n");
-	exit(EX_SOFTWARE);
+	ExitProcess(PROC_TERMINATION_CODE);
 }
 
 void doWork()
 {
-	srand(getpid());
+	srand(GetCurrentProcessId());
 	for(;;)
 	{
 		int i, numInRange = 0;
@@ -93,10 +108,10 @@ void doWork()
 			int num = rand();
 			if (90 <= num && num <= 110)
 			{
-				printf("Process %d count = %d\n", getpid(), ++numInRange);
+				printf("Process %d count = %d\n", GetCurrentProcessId(), ++numInRange);
 			}
 		}
-		sleep(10);
+		Sleep(10000);
 	}
 }
 
@@ -118,4 +133,26 @@ void alarm(int *pNumSecs)
 		fprintf(stderr, "Unable to create alarm thread.\n");
 		ExitProcess(1);
 	}
+}
+
+void initProcessArrays()
+{
+	int i;
+	for (i = 0; i < numProcessors; i++)
+	{
+		STARTUPINFO si = startupInfos[i];
+		PROCESS_INFORMATION pi = processInfos[i];
+		ZeroMemory(&si, sizeof(si));
+		si.cb = sizeof(si);
+		ZeroMemory(&pi, sizeof(pi));
+	}
+}
+
+DWORD WINAPI AlarmRun(LPVOID threadData)
+{
+	int numSecs = *((int *)threadData);
+	Sleep(1000 * numSecs);
+	raise(SIGINT);
+
+	ExitThread(0);
 }
