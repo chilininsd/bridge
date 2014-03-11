@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/objects
+END
+Address.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/objects/Address.c
+END
+testAddress.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/objects/testAddress.c
+END
+Address.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/objects/Address.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/objects/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/csdept/!svn/ver/1878/courses/cs253/lab/C-examples/strings
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1796/courses/cs253/lab/C-examples/strings/Makefile
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1627/courses/cs253/lab/C-examples/strings/.project
+END
+strings-ex1.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/csdept/!svn/ver/1627/courses/cs253/lab/C-examples/strings/strings-ex1.c
+END
+strings-ex2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/csdept/!svn/ver/1796/courses/cs253/lab/C-examples/strings/strings-ex2.c
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1878/courses/cs253/lab/C-examples/strings/.cproject
+END
+strings-ex3.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/csdept/!svn/ver/1801/courses/cs253/lab/C-examples/strings/strings-ex3.c
+END

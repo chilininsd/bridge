@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/csdept/!svn/ver/1690/courses/cs253/lab/ms-windows/files-processes
+END
+fork-and-exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/csdept/!svn/ver/1690/courses/cs253/lab/ms-windows/files-processes/fork-and-exec.c
+END
+fork-and-wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/fork-and-wait.c
+END
+stdc-mycp.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/stdc-mycp.c
+END
+print-pid.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/print-pid.c
+END
+timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/timeout.c
+END
+file-copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/file-copy.c
+END
+fork-hello-world.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/fork-hello-world.c
+END
+shell1.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/shell1.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/error.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/error.h
+END
+fork-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/fork-test.c
+END
+print-buffer-sizes.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/ms-windows/files-processes/print-buffer-sizes.c
+END

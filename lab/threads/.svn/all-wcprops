@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/csdept/!svn/ver/1981/courses/cs253/lab/threads
+END
+thread-better-hello-world.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/thread-better-hello-world.c
+END
+thread-ex.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/thread-ex.c
+END
+bad-bank-balance.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/bad-bank-balance.c
+END
+thread-ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/thread-ids.c
+END
+thread-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/csdept/!svn/ver/1808/courses/cs253/lab/threads/thread-test.c
+END
+timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/timing.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/error.c
+END
+thread-scheduling.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/thread-scheduling.c
+END
+seq-sum.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/seq-sum.c
+END
+thread-dbl-buf-attempt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/thread-dbl-buf-attempt.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/csdept/!svn/ver/1823/courses/cs253/lab/threads/Makefile
+END
+thread-hello-world.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1981/courses/cs253/lab/threads/thread-hello-world.c
+END
+test-threads.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/test-threads.sh
+END
+thread-big-calc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/thread-big-calc.c
+END
+thread-cp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/thread-cp.c
+END
+ourhdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/ourhdr.h
+END
+thread-sum.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1808/courses/cs253/lab/threads/thread-sum.c
+END
+safe-bank-balance.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/safe-bank-balance.c
+END
+prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/threads/prime.c
+END

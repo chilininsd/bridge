@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/using-C++-compiler-for-C-programs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/using-C++-compiler-for-C-programs/Makefile
+END
+arrays.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/using-C++-compiler-for-C-programs/arrays.cc
+END
+pointers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/using-C++-compiler-for-C-programs/pointers.cc
+END
+test-qsort.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/using-C++-compiler-for-C-programs/test-qsort.cc
+END

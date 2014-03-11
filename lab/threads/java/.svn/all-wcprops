@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/csdept/!svn/ver/1823/courses/cs253/lab/threads/java
+END
+MaxThreads.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1811/courses/cs253/lab/threads/java/MaxThreads.java
+END
+PingPong.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/csdept/!svn/ver/1811/courses/cs253/lab/threads/java/PingPong.java
+END
+SynchronizedPingPong.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1811/courses/cs253/lab/threads/java/SynchronizedPingPong.java
+END
+RunnableExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/csdept/!svn/ver/1813/courses/cs253/lab/threads/java/RunnableExample.java
+END
+ThreadExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/csdept/!svn/ver/1811/courses/cs253/lab/threads/java/ThreadExample.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1812/courses/cs253/lab/threads/java/Account.java
+END
+InterruptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/csdept/!svn/ver/1811/courses/cs253/lab/threads/java/InterruptTest.java
+END
+SynchronizedAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/csdept/!svn/ver/1813/courses/cs253/lab/threads/java/SynchronizedAccount.java
+END
+TestAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/csdept/!svn/ver/1812/courses/cs253/lab/threads/java/TestAccount.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/csdept/!svn/ver/1823/courses/cs253/lab/threads/java/Makefile
+END

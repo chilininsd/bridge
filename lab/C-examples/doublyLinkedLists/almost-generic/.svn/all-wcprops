@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csdept/!svn/ver/2018/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic
+END
+Node.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/csdept/!svn/ver/1857/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/Node.c
+END
+SimpleTestList.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/csdept/!svn/ver/1879/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/SimpleTestList.c
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/csdept/!svn/ver/1868/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/test.sh
+END
+Job.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/csdept/!svn/ver/1857/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/Job.c
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/csdept/!svn/ver/1868/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/Node.h
+END
+List.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/csdept/!svn/ver/1857/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/List.c
+END
+UnitTestList.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/csdept/!svn/ver/1924/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/UnitTestList.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/csdept/!svn/ver/2018/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/Makefile
+END
+RandomTestList.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/csdept/!svn/ver/1868/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/RandomTestList.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/csdept/!svn/ver/1937/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/common.h
+END
+Job.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/csdept/!svn/ver/1868/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/Job.h
+END
+doxygen-config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/csdept/!svn/ver/1868/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/doxygen-config
+END
+List.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/csdept/!svn/ver/1868/courses/cs253/lab/C-examples/doublyLinkedLists/almost-generic/List.h
+END

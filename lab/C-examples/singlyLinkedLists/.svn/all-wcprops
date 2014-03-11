@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/2037/courses/cs253/lab/C-examples/singlyLinkedLists
+END
+README.dox
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csdept/!svn/ver/1826/courses/cs253/lab/C-examples/singlyLinkedLists/README.dox
+END
+SinglyLinkedList.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/csdept/!svn/ver/1824/courses/cs253/lab/C-examples/singlyLinkedLists/SinglyLinkedList.c
+END
+SimpleTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/csdept/!svn/ver/2032/courses/cs253/lab/C-examples/singlyLinkedLists/SimpleTest.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/csdept/!svn/ver/2037/courses/cs253/lab/C-examples/singlyLinkedLists/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/csdept/!svn/ver/1826/courses/cs253/lab/C-examples/singlyLinkedLists/README
+END
+SinglyLinkedList.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/csdept/!svn/ver/1824/courses/cs253/lab/C-examples/singlyLinkedLists/SinglyLinkedList.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/csdept/!svn/ver/1836/courses/cs253/lab/C-examples/singlyLinkedLists/common.h
+END
+doxygen-config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csdept/!svn/ver/1825/courses/cs253/lab/C-examples/singlyLinkedLists/doxygen-config
+END

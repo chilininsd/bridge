@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/simpleExamples
+END
+hello.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/simpleExamples/hello.cc
+END
+demo1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/simpleExamples/demo1.cc
+END
+demo2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/simpleExamples/demo2.cc
+END
+demo3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/simpleExamples/demo3.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/simpleExamples/Makefile
+END

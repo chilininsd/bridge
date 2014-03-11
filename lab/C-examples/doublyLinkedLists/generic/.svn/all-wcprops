@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/csdept/!svn/ver/1948/courses/cs253/lab/C-examples/doublyLinkedLists/generic
+END
+Node.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/Node.c
+END
+Object.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/Object.c
+END
+SimpleTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/SimpleTest.c
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/Node.h
+END
+List.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csdept/!svn/ver/1948/courses/cs253/lab/C-examples/doublyLinkedLists/generic/List.c
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/Object.h
+END
+TestList.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/TestList.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/Makefile
+END
+make
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/make
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/common.h
+END
+List.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/doublyLinkedLists/generic/List.h
+END

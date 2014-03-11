@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack
+END
+List.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/List.cc
+END
+List.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/List.h
+END
+Node.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/Node.cc
+END
+Stack.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/Stack.cc
+END
+TestStack.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/TestStack.cc
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/Node.h
+END
+Stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/Stack.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stack/Makefile
+END

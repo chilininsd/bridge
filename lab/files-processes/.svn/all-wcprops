@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes
+END
+fork-child-grandchild.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/fork-child-grandchild.c
+END
+fork-and-exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/fork-and-exec.c
+END
+hello-fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/hello-fifo.c
+END
+timeout.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/timeout.c
+END
+fork-hello-world.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/fork-hello-world.c
+END
+timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/timing.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/error.c
+END
+numcpus.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/numcpus.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/Makefile
+END
+hello-pipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/hello-pipe.c
+END
+fork-two-children.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/fork-two-children.c
+END
+print-buffer-sizes.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/print-buffer-sizes.c
+END
+simple-shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/simple-shell.c
+END
+stdc-mycp.log
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/stdc-mycp.log
+END
+fork-and-wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/fork-and-wait.c
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/.project
+END
+stdc-mycp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/stdc-mycp.c
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/.cproject
+END
+print-pid.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/print-pid.c
+END
+test.data
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/test.data
+END
+mycp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/mycp.c
+END
+ourhdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/ourhdr.h
+END
+test-hello.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/test-hello.sh
+END
+fifo-talk.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/fifo-talk.c
+END
+print-max-no-procs.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/print-max-no-procs.c
+END
+test-mycp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/test-mycp.sh
+END
+fork-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/fork-test.c
+END
+color.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/color.c
+END
+pow2Tester.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/files-processes/pow2Tester.c
+END

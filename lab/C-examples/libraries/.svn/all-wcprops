@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/libraries
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/libraries/Makefile
+END
+test1.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/libraries/test1.c
+END
+mylib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/libraries/mylib.h
+END
+f1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/libraries/f1.c
+END
+f2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/libraries/f2.c
+END
+f3.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/libraries/f3.c
+END

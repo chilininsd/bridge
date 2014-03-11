@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/csdept/!svn/ver/1660/courses/cs253/lab/C-examples/bitwise-operators
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/csdept/!svn/ver/1660/courses/cs253/lab/C-examples/bitwise-operators/Makefile
+END
+shift-overflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1660/courses/cs253/lab/C-examples/bitwise-operators/shift-overflow.c
+END
+getbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/csdept/!svn/ver/1522/courses/cs253/lab/C-examples/bitwise-operators/getbits.c
+END
+bitmanip.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csdept/!svn/ver/1557/courses/cs253/lab/C-examples/bitwise-operators/bitmanip.c
+END

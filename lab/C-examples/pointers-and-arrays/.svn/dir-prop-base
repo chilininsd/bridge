@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 69
+1d-arrays
+2d-arrays
+pointers1
+pointers2
+.settings
+.cproject
+.project
+
+END

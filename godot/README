@@ -1,0 +1,25 @@
+****************
+* Project 1
+* CS 297
+* March 7, 2014
+* Reuben Tanner
+**************** 
+
+PROJECT OVERVIEW:
+
+The goal of the project was to get experience creating and manipulating processes, handling signals and determining exit statuses of the processes. 
+
+SUBMITTED FILES:
+
+godot.c 	- the c source code
+Makefile	- to build the c project
+README		- this file
+
+BUILDING AND RUNNING:
+
+Build:
+	$ make godot
+
+Run:
+	./godot <alarm interval in seconds>
+

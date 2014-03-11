@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/csdept/!svn/ver/2003/courses/cs253/lab/C-examples/pointers-and-arrays
+END
+pointer-types.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/csdept/!svn/ver/2003/courses/cs253/lab/C-examples/pointers-and-arrays/pointer-types.c
+END
+1d-arrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/csdept/!svn/ver/2003/courses/cs253/lab/C-examples/pointers-and-arrays/1d-arrays.c
+END
+2d-arrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/csdept/!svn/ver/1625/courses/cs253/lab/C-examples/pointers-and-arrays/2d-arrays.c
+END
+pointers1.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/csdept/!svn/ver/1662/courses/cs253/lab/C-examples/pointers-and-arrays/pointers1.c
+END
+pointers2.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/csdept/!svn/ver/1619/courses/cs253/lab/C-examples/pointers-and-arrays/pointers2.c
+END
+array-bounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1922/courses/cs253/lab/C-examples/pointers-and-arrays/array-bounds.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csdept/!svn/ver/1922/courses/cs253/lab/C-examples/pointers-and-arrays/Makefile
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/README
+END
+ExternalBinarySearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/ExternalBinarySearch.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/common.h
+END
+Record.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/Record.c
+END
+ExternalBinarySearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/ExternalBinarySearch.h
+END
+Record.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/Record.h
+END
+gendata.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/gendata.c
+END
+TestBsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/TestBsearch.c
+END
+timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/disk_binary_search/timing.c
+END

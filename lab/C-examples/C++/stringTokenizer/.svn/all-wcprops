@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stringTokenizer
+END
+StringTokenizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stringTokenizer/StringTokenizer.cc
+END
+StringTokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stringTokenizer/StringTokenizer.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stringTokenizer/Makefile
+END
+testTokenizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/C++/stringTokenizer/testTokenizer.cc
+END

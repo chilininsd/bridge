@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/csdept/!svn/ver/1974/courses/cs253/lab/plugins/ex2
+END
+Hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex2/Hello.c
+END
+libHello.dll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex2/libHello.dll
+END
+Loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex2/Loader.c
+END
+Goodbye.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex2/Goodbye.c
+END
+libHello.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex2/libHello.c
+END
+Loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1974/courses/cs253/lab/plugins/ex2/Loader.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex2/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex2/README
+END

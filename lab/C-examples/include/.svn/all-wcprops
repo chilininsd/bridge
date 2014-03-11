@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/include
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/include/Node.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/include/common.h
+END
+HashObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/include/HashObject.h
+END
+HashTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/include/HashTable.h
+END
+List.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/include/List.h
+END

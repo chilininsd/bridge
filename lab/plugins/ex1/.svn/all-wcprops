@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/csdept/!svn/ver/1974/courses/cs253/lab/plugins/ex1
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex1/Makefile
+END
+runplug.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/csdept/!svn/ver/1974/courses/cs253/lab/plugins/ex1/runplug.c
+END
+plugin1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/csdept/!svn/ver/1974/courses/cs253/lab/plugins/ex1/plugin1.c
+END
+plugin2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/plugins/ex1/plugin2.c
+END

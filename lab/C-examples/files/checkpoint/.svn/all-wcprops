@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint
+END
+Node.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/Node.c
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/test.sh
+END
+SimpleTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/SimpleTest.c
+END
+TestSuite.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/TestSuite.c
+END
+Job.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/Job.c
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/Node.h
+END
+List.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/List.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/common.h
+END
+Job.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/Job.h
+END
+List.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/List.h
+END
+Restore.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/Restore.c
+END
+TestSuiteChkPt.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/TestSuiteChkPt.c
+END
+dump
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/csdept/!svn/ver/1326/courses/cs253/lab/C-examples/files/checkpoint/dump
+END
