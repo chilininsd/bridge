@@ -11,11 +11,14 @@ The goal of the project was to get experience creating and manipulating processe
 
 SUBMITTED FILES:
 
-godot.c 	- the c source code
-Makefile	- to build the c project
-README		- this file
+README			- this file
+linux
+	godot.c 	- the c source code
+	Makefile	- to build the c project
+windows
+	godot		- the folder containing the solution files
 
-BUILDING AND RUNNING:
+BUILDING AND RUNNING LINUX VERSION:
 
 Build:
 	$ make godot
@@ -23,3 +26,12 @@ Build:
 Run:
 	./godot <alarm interval in seconds>
 
+BUILDING AND RUNNING WINDOWS VERSION:
+
+1. Open visual studio.
+2. File->open->Solution
+3. Navigate to godot
+4. clean and build
+5. Windows+r -> cmd -> enter
+6. navigate to directory where .exe is 
+7. godot.exe <alarm interval in seconds>

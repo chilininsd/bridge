@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "godot", "godot\godot.vcxproj", "{B007B046-4F3A-42B5-A119-BA315B1C4A20}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C94098EE-0737-4B5C-8AE4-EE8D1E07A1AC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\godot\windows\godot.c = ..\..\godot\windows\godot.c
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B007B046-4F3A-42B5-A119-BA315B1C4A20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B007B046-4F3A-42B5-A119-BA315B1C4A20}.Debug|Win32.Build.0 = Debug|Win32
+		{B007B046-4F3A-42B5-A119-BA315B1C4A20}.Release|Win32.ActiveCfg = Release|Win32
+		{B007B046-4F3A-42B5-A119-BA315B1C4A20}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
