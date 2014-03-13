@@ -39,6 +39,10 @@ int main(int argc, char *argv[])
 
 	printf("original process, pid = %d\n", getpid());
 
+	/**
+	* As parent: for the number of processors, create a new process and store its PID
+	* As child: begin your inifinite, slave labor task of counting the inane numbers
+	*/
 	int i;
 	for (i = 0; i < numProcessors; i++)
 	{
@@ -53,6 +57,9 @@ int main(int argc, char *argv[])
 		}
 	}
 	
+	/**
+	* Wait for my children to finish and get their exit signal
+	*/
 	int j;
 	for (j = 0; j < numProcessors; j++)
 	{
@@ -66,7 +73,10 @@ int main(int argc, char *argv[])
 	exit(EXIT_SUCCESS);
 }
 
-static void onalarm(int signo) /* kill child process when alarm arives */
+/**
+* Upon receiving the signal, kill all the children like a Black-tailed prairie dog would
+*/
+static void onalarm(int signo) 
 {
 	printf("\nRecvd alarm signal!\n\n");
 	int i;
@@ -76,6 +86,9 @@ static void onalarm(int signo) /* kill child process when alarm arives */
 	}
 }
 
+/*
+* Problems have happened...
+*/
 void error(char *msg)
 {
 	fprintf(stderr, "%s", msg);
@@ -83,6 +96,9 @@ void error(char *msg)
 	exit(EX_SOFTWARE);
 }
 
+/*
+* *whip* *whip* get to work you child processes. don't make me put you in the hot box again!!
+*/
 void doWork()
 {
 	srand(getpid());
