@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="work.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\godot\windows\godot.c">
+    <ClCompile Include="..\..\godot.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
