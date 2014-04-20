@@ -13,7 +13,7 @@ SUBMITTED FILES:
 
 README				- this file
 linux
-	threaddance.c 	- the c source code
+	thread-random.c	- the c source code
 	Makefile		- to build the c project
 windows
 	thread-dance	- the folder containing the solution files
@@ -21,7 +21,7 @@ windows
 BUILDING AND RUNNING LINUX VERSION:
 
 Build:
-	$ make godot
+	$ make
 
 Run:
 	./thread-random <numberOfRandoms> <numThreads>
