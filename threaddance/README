@@ -1,0 +1,54 @@
+****************
+* Project 2
+* CS 297
+* April 19, 2014
+* Reuben Tanner
+**************** 
+
+PROJECT OVERVIEW:
+
+The goal of the project was to get experience creating and manipulating threads in windows and posix.
+
+SUBMITTED FILES:
+
+README				- this file
+linux
+	threaddance.c 	- the c source code
+	Makefile		- to build the c project
+windows
+	thread-dance	- the folder containing the solution files
+
+BUILDING AND RUNNING LINUX VERSION:
+
+Build:
+	$ make godot
+
+Run:
+	./thread-random <numberOfRandoms> <numThreads>
+
+BUILDING AND RUNNING WINDOWS VERSION:
+
+1. Open visual studio.
+2. File->open->Solution
+3. Navigate to godot
+4. clean and build
+5. Windows+r -> cmd -> enter
+6. navigate to directory where .exe is 
+7. thread-random.exe <numberOfRandoms> <numThreads>
+
+PERFORMANCE
+4 cores - 2 used by Linux vm = 2 cores
+windows api:
+thread count	time in sec
+1					39.281
+2					19.875
+3					13.993 
+4					14.024
+
+2 core vm
+posix:
+thread count	time in sec
+1					6.757
+2					3.737
+3					3.770 
+4					3.565

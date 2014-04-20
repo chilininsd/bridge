@@ -6,7 +6,6 @@
 
 void generateRandomNumbers(long long, int);  
 DWORD WINAPI Run(LPVOID arg);
-DWORD WINAPI getMilliSeconds();
 
 struct thread_arg {
     int id;
